@@ -106,14 +106,14 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     as the first character and the most recent round as the last character.'''
       
     ######
-    ######
+    #Cal and Mark
     #
-    # This example player always colludes
+    #
     if player == 0:
         if getting_team_name:
-            return 'loyal'
+            return 'cal and mark'
         else:
-            return 'c'
+            player = 2
 
     
         
