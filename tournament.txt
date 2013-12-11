@@ -1,1142 +1,128 @@
 team 1 vs. team 0
 0 vs. 0
 backstabber vs. cal and mark
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                                                                                                                                                             
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+                                                                                                         
 
 team 2 vs. team 0
 0 vs. 0
 loyal vengeful vs. cal and mark
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                           
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+                                                                                                                                                                         
 
 team 2 vs. team 1
--375 vs. -75
+-376 vs. -74
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 0
 0 vs. 0
 loyal vengeful vs. cal and mark
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                                                                       
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+                                                                                                                                  
 
 team 3 vs. team 1
--375 vs. -75
+-376 vs. -74
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 2
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 0
 0 vs. 0
 betray every 3rd round vs. cal and mark
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
-                                                                                                                                                               
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
+                                                                                                                                                         
 
 team 4 vs. team 1
--334 vs. -133
+-334 vs. -134
 betray every 3rd round vs. backstabber
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 4 vs. team 2
 -50 vs. -250
 betray every 3rd round vs. loyal vengeful
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
 
 team 4 vs. team 3
 -50 vs. -249
 betray every 3rd round vs. loyal vengeful
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
 
 team 5 vs. team 0
 0 vs. 0
 loyal vengeful vs. cal and mark
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                                                              
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+                                                                                                                                                                                               
 
 team 5 vs. team 1
--375 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 5 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 5 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 5 vs. team 4
--250 vs. -49
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
-
-team 6 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                              
-
-team 6 vs. team 1
 -376 vs. -74
 loyal vengeful vs. backstabber
 cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
-team 6 vs. team 2
+team 5 vs. team 2
 0 vs. 0
 loyal vengeful vs. loyal vengeful
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 4
+-250 vs. -50
+loyal vengeful vs. betray every 3rd round
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
+
+team 6 vs. team 0
+0 vs. 0
+loyal vengeful vs. cal and mark
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+                                                                                                                                                 
+
+team 6 vs. team 1
+-376 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 6 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 3
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 6 vs. team 4
 -250 vs. -49
 loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
+ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
+cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
 
 team 6 vs. team 5
 0 vs. 0
 loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 7 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                            
-
-team 7 vs. team 1
--375 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 7 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 7 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 7 vs. team 4
--250 vs. -50
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
-
-team 7 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 7 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 8 vs. team 0
-0 vs. 0
-loyal vengeful with permanent second impression vs. cal and mark
-cc c                                                                                                                                                             
-                                                                                                                                                                 
-
-team 8 vs. team 1
--254 vs. -246
-loyal vengeful with permanent second impression vs. backstabber
-cbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 8 vs. team 2
-0 vs. 0
-loyal vengeful with permanent second impression vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 8 vs. team 3
-0 vs. 0
-loyal vengeful with permanent second impression vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 8 vs. team 4
--218 vs. -212
-loyal vengeful with permanent second impression vs. betray every 3rd round
-ccbccbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
-
-team 8 vs. team 5
-0 vs. 0
-loyal vengeful with permanent second impression vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 8 vs. team 6
-0 vs. 0
-loyal vengeful with permanent second impression vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 8 vs. team 7
-0 vs. 0
-loyal vengeful with permanent second impression vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 9 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                                                                       
-
-team 9 vs. team 1
--377 vs. -74
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 9 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 9 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 9 vs. team 4
--249 vs. -50
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
-
-team 9 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 9 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 9 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 9 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 10 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                           
-
-team 10 vs. team 1
--375 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 10 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 10 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 10 vs. team 4
--249 vs. -50
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
-
-team 10 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 10 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 10 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 10 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 10 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                                                            
-
-team 11 vs. team 1
--376 vs. -74
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 11 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 4
--250 vs. -49
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
-
-team 11 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 11 vs. team 10
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                   
-
-team 12 vs. team 1
--376 vs. -74
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 12 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 4
--249 vs. -50
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
-
-team 12 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 10
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 12 vs. team 11
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                
-
-team 13 vs. team 1
--375 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 13 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 4
--249 vs. -50
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
-
-team 13 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 10
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 11
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 13 vs. team 12
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 14 vs. team 0
-0 vs. 0
-loyal vengeful occasionally greedy vs. cal and mark
-cccccbbcccccccccccccccbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccbccccccccccccccbccccbbccbccccbccccccccbcccccccccbccccbcbc
-                                                                                                                                         
-
-team 14 vs. team 1
--368 vs. -85
-loyal vengeful occasionally greedy vs. backstabber
-cbbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbbbcbcbbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 14 vs. team 2
--131 vs. -148
-loyal vengeful occasionally greedy vs. loyal vengeful
-cccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbbcccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccbcbbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccccccccccc
-ccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccbcbccbcbcbcbcbcbcbcbcbcbcbcbccccccccccccccccccccccc
-
-team 14 vs. team 3
--101 vs. -122
-loyal vengeful occasionally greedy vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccbcbcbcbcbbcccccccbcbcbcbbbcbcbcbcbcbcbcbbcccccccccc
-cccccccccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccbcbcbcbcbccccccccbcbcbcbcbcbcbcbcbcbcbcbcccccccccc
-
-team 14 vs. team 4
--245 vs. -78
-loyal vengeful occasionally greedy vs. betray every 3rd round
-ccbccbccbbcbbcbccbccbccbccbccbccbccbccbcbcbcbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcbcbcbcbcbcbcbcbcbbcbccbccbccbccbcc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
-
-team 14 vs. team 5
--71 vs. -95
-loyal vengeful occasionally greedy vs. loyal vengeful
-ccccccccccccccccbcbcbbccccccccbcbcbcbcbcbcbcbcbcbbccccccbcbcbcbcbcbcbcbbcccbcbbcccccccbcbcbcbcbbbbcccccccccccccbcbcbcbcbcbcbbcccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccbcbcbcccccccccbcbcbcbcbcbcbcbcbcbcccccccbcbcbcbcbcbcbcbccccbcbccccccccbcbcbcbcbcbccccccccccccccbcbcbcbcbcbcbcccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 14 vs. team 6
--139 vs. -167
-loyal vengeful occasionally greedy vs. loyal vengeful
-cccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccbcbcbcbcbcbcbcbcbcbcbcbcbbcccbcbcbcbcbbbcbcbcbcbcbcbbccccbcbbccccccccccccccccccbcbbcccccccccbcbcbbccbcbbccbcbcbcbcbcbcbcbcbbccccc
-ccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccbcbcbcbcbcbcbcbcbcbcbcbcbccccbcbcbcbcbcbcbcbcbcbcbcbcccccbcbcccccccccccccccccccbcbccccccccccbcbcbcccbcbcccbcbcbcbcbcbcbcbcbccccc
-
-team 14 vs. team 7
--132 vs. -154
-loyal vengeful occasionally greedy vs. loyal vengeful
-cccccccccccccccbbcccbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccbcbcbcbcbbcccccccccccccccbcbcbcbcbcbcbcbcbcbcbbccccbcbcbcbcbcbbcccbcbcbcbcbcbcbcbcbcbcbc
-ccccccccccccccccbccccbcbcbcbcbcbcbccbcbcbcbcbcbcbcbcbcbcbcccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccbcbcbcbcbccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcccccbcbcbcbcbcbccccbcbcbcbcbcbcbcbcbcbcb
-
-team 14 vs. team 8
--155 vs. -163
-loyal vengeful occasionally greedy vs. loyal vengeful with permanent second impression
-cccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbbcbcbcbcbcbcb
-ccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbbcbcbcbcbcbc
-
-team 14 vs. team 9
--105 vs. -137
-loyal vengeful occasionally greedy vs. loyal vengeful
-ccccccccccbcbcbcbcbcbcbcbbccccccccccbcbcbcbcbcbcbbccccbcbbccccbbcbcbcbcbbcccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcb
-cccccccccccbcbcbcbcbcbcbcbcccccccccccbcbcbcbcbcbcbcccccbcbcccccbccbcbcbcbccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbc
-
-team 14 vs. team 10
--108 vs. -131
-loyal vengeful occasionally greedy vs. loyal vengeful
-cccccbcbcbcbcbcbcbcbcbcbbccccccccbcbcbbccccbcbbcccccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbbccccbcbcbcbcbcbcbcbcbcbcbcb
-ccccccbcbcbcbcbcbcbcbcbcbcccccccccbcbcbcccccbcbccccccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcccccbcbcbcbcbcbcbcbcbcbcbc
-
-team 14 vs. team 11
--157 vs. -173
-loyal vengeful occasionally greedy vs. loyal vengeful
-ccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccbbccbcbcbbccccccbcbcbcbcbcbcbcbcbcbc
-cccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccbcccbcbcbcccccccbcbcbcbcbcbcbcbcbcb
-
-team 14 vs. team 12
--123 vs. -150
-loyal vengeful occasionally greedy vs. loyal vengeful
-cbcbcbcbbcccbcbcbcbcbbccccccccbcbcbcbcbbccccccccccccccccccbcbcbcbcbbcccccccbcbbccccbbcccccccbcbcbcbcbcbcbcbcbcbbcccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccccbcbcbcbcbcbcbcbbccbcbcbcbcbcbcbcbcbcbcbcbcbc
-ccbcbcbcbccccbcbcbcbcbcccccccccbcbcbcbcbcccccccccccccccccccbcbcbcbcbccccccccbcbcccccbccccccccbcbcbcbcbcbcbcbcbcbccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbccccccbcbcbcbcbcbcbcbcccbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 14 vs. team 13
--109 vs. -139
-loyal vengeful occasionally greedy vs. loyal vengeful
-ccccccccccccccccccbbccccccccccccbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccbcbcbcbcbcbbcccccccccccccccccbcbcbcbcbcbcbcbcbcbbcbbccbcbcbbccccccccccccccccbbcbcbcbcbcbcbbccccccccbcb
-cccccccccccccccccccbcccccccccccccbcbcbcbccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbccccbcbcbcbcbcbccccccccccccccccccbcbcbcbcbcbcbcbcbcbccbcccbcbcbcccccccccccccccccbccbcbcbcbcbcbcccccccccbc
-
-team 15 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                                           
-
-team 15 vs. team 1
--375 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 15 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 4
--250 vs. -50
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbb
-
-team 15 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 10
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 11
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 12
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 13
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 15 vs. team 14
--144 vs. -114
-loyal vengeful vs. loyal vengeful occasionally greedy
-ccccccccccbcccbcbcbcccccbcbcbcbcccccccccccbcbcbcbcbcbcbcbcbcbcbccccccccccccbcbcbcccbcbcbcbcbcbcbcbcbcbcbccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbc
-cccccccccbbccbcbcbbccccbcbcbcbbccccccccccbcbcbcbcbcbcbcbcbcbcbbcccccccccccbcbcbbccbcbcbcbcbcbcbcbcbcbcbbcccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 16 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                                
-
-team 16 vs. team 1
--375 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 16 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 4
--250 vs. -49
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
-
-team 16 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 10
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 11
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 12
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 13
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 16 vs. team 14
--147 vs. -121
-loyal vengeful vs. loyal vengeful occasionally greedy
-cccccccccccccccccccbcbcbcbcccccbcbcbcbcbcbcbcbcbcccccccbcbcbcccbcbcbcbcccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccbcb
-ccccccccccccccccccbcbcbcbbccccbcbcbcbcbcbcbcbcbbccccccbcbcbbccbcbcbcbbccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccbcbc
-
-team 16 vs. team 15
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                                        
-
-team 17 vs. team 1
--375 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 17 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 4
--250 vs. -49
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcb
-
-team 17 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 10
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 11
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 12
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 13
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 14
--123 vs. -96
-loyal vengeful vs. loyal vengeful occasionally greedy
-ccccccccccccccccccccccccbcbcbccccccccccccccccccccccccbcbcbccbcbcbcbcbcbcbcbcbcbcbcbcbccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccccccccccccccccccbcbcccccccccbcbcbcbcbcbcbcbcbcbcbcb
-cccccccccccccccccccccccbbbcbbcccccccccccccccccccccccbbbcbbcbcbbbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccccccccccccccccbcbbccccccccbcbcbcbcbcbcbcbcbcbcbcbc
-
-team 17 vs. team 15
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 17 vs. team 16
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                                                                             
-
-team 18 vs. team 1
--377 vs. -74
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 18 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 4
--249 vs. -50
-loyal vengeful vs. betray every 3rd round
-ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
-
-team 18 vs. team 5
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 6
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 7
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 8
-0 vs. 0
-loyal vengeful vs. loyal vengeful with permanent second impression
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 9
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 10
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 11
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 12
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 13
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 14
--146 vs. -106
-loyal vengeful vs. loyal vengeful occasionally greedy
-ccccccbcbcbcbcbcbcbcccccbcbcbcbcbcbccccccccccbcbcbcbcbcbcbcbcbcccccccccccccbccccccccccccbcbcbcbcbcbccccbcbcbcbcbcbcbccc
-cccccbcbcbcbcbcbcbbccccbcbcbcbcbcbbcccccccccbcbcbcbbbcbcbcbcbbccccccccccccbbcccccccccccbcbcbcbcbcbbcccbcbcbcbcbcbcbbccb
-
-team 18 vs. team 15
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 16
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 18 vs. team 17
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
-team 19 vs. team 0
-0 vs. 0
-loyal vengeful vs. cal and mark
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-                                                                                                                       
-
-team 19 vs. team 1
--253 vs. -247
-loyal vengeful vs. backstabber
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 19 vs. team 2
--74 vs. -374
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-
-team 19 vs. team 3
--74 vs. -374
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-
-team 19 vs. team 4
--133 vs. -332
-loyal vengeful vs. betray every 3rd round
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbcbbc
-
-team 19 vs. team 5
--75 vs. -373
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 19 vs. team 6
--75 vs. -372
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 19 vs. team 7
--73 vs. -373
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-
-team 19 vs. team 8
--246 vs. -252
-loyal vengeful vs. loyal vengeful with permanent second impression
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-team 19 vs. team 9
--73 vs. -373
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-
-team 19 vs. team 10
--75 vs. -373
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 19 vs. team 11
--74 vs. -374
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-
-team 19 vs. team 12
--75 vs. -374
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 19 vs. team 13
--75 vs. -373
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 19 vs. team 14
--86 vs. -365
-loyal vengeful vs. loyal vengeful occasionally greedy
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbbcbcbcbcbbcbcbbcbcbbcbbbc
-
-team 19 vs. team 15
--75 vs. -372
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 19 vs. team 16
--74 vs. -374
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-
-team 19 vs. team 17
--75 vs. -374
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-
-team 19 vs. team 18
--75 vs. -373
-loyal vengeful vs. loyal vengeful
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
 
 
 
@@ -1144,52 +130,26 @@ ccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
 	Each column shows score earned per round against each other player.
 
 
-	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	P15	P16	P17	P18	P19	
-P0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
-P1	0	0	-375	-375	-334	-375	-376	-375	-254	-377	-375	-376	-376	-375	-368	-375	-375	-375	-377	-253	
-P2	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-131	0	0	0	0	-74	
-P3	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-101	0	0	0	0	-74	
-P4	0	-133	-250	-249	0	-250	-250	-250	-218	-249	-249	-250	-249	-249	-245	-250	-250	-250	-249	-133	
-P5	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	-71	0	0	0	0	-75	
-P6	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	-139	0	0	0	0	-75	
-P7	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-132	0	0	0	0	-73	
-P8	0	-246	0	0	-212	0	0	0	0	0	0	0	0	0	-155	0	0	0	0	-246	
-P9	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	-105	0	0	0	0	-73	
-P10	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-108	0	0	0	0	-75	
-P11	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	-157	0	0	0	0	-74	
-P12	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	-123	0	0	0	0	-75	
-P13	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-109	0	0	0	0	-75	
-P14	0	-85	-148	-122	-78	-95	-167	-154	-163	-137	-131	-173	-150	-139	0	-144	-147	-123	-146	-86	
-P15	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-114	0	0	0	0	-75	
-P16	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	-121	0	0	0	0	-74	
-P17	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	-96	0	0	0	0	-75	
-P18	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	-106	0	0	0	0	-75	
-P19	0	-247	-374	-374	-332	-373	-372	-373	-252	-373	-373	-374	-374	-373	-365	-372	-374	-374	-373	0	
-Total:	0	-1752	-1145	-1118	-1644	-1091	-1164	-1151	-885	-1134	-1126	-1171	-1146	-1133	-2738	-1139	-1144	-1120	-1143	-1750	
+	P0	P1	P2	P3	P4	P5	P6	
+P0	0	0	0	0	0	0	0	
+P1	0	0	-376	-376	-334	-376	-376	
+P2	0	-74	0	0	-50	0	0	
+P3	0	-74	0	0	-50	0	0	
+P4	0	-134	-250	-249	0	-250	-250	
+P5	0	-74	0	0	-50	0	0	
+P6	0	-75	0	0	-49	0	0	
+Total:	0	-428	-625	-624	-531	-625	-625	
 
 
  Average per round, with team strategy names:
 
 player 0: 0 points: cal and mark
-player 1: -88 points: backstabber
-player 2: -58 points: loyal vengeful
-player 3: -56 points: loyal vengeful
-player 4: -83 points: betray every 3rd round
-player 5: -55 points: loyal vengeful
-player 6: -59 points: loyal vengeful
-player 7: -58 points: loyal vengeful
-player 8: -45 points: loyal vengeful with permanent second impression
-player 9: -57 points: loyal vengeful
-player 10: -57 points: loyal vengeful
-player 11: -59 points: loyal vengeful
-player 12: -58 points: loyal vengeful
-player 13: -57 points: loyal vengeful
-player 14: -137 points: loyal vengeful occasionally greedy
-player 15: -57 points: loyal vengeful
-player 16: -58 points: loyal vengeful
-player 17: -56 points: loyal vengeful
-player 18: -58 points: loyal vengeful
-player 19: -88 points: loyal vengeful
+player 1: -62 points: backstabber
+player 2: -90 points: loyal vengeful
+player 3: -90 points: loyal vengeful
+player 4: -76 points: betray every 3rd round
+player 5: -90 points: loyal vengeful
+player 6: -90 points: loyal vengeful
 
 
 -------------------------------------------------------------------------------
@@ -1309,8 +269,6 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     if player == 0:
         if getting_team_name:
             return 'cal and mark'
-        else:
-            player = 2
 
     
         

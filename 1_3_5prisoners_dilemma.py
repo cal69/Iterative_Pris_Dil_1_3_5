@@ -112,8 +112,6 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     if player == 0:
         if getting_team_name:
             return 'cal and mark'
-        else:
-            player = 2
 
     
         
